@@ -5,17 +5,17 @@
 ---
 
 ## PERSONAL STATEMENT
-Proficient programmer with experience in open-source development and a graduate from Northcoders’ Software Development bootcamp, seeking a Junior Software Developer role.
+Proficient programmer with experience in open-source development and graduate from Northcoders’ Software Development bootcamp, seeking a Junior Software Developer role.
 
 ---
 
 ## SKILLS
-- **Languages:** JavaScript, Python, Java, Bash, C#  
-- **Frontend:** HTML, CSS, WinForms, Swing, Tkinter  
-- **Backend:** SQLite, PostgreSQL, MySQL  
-- **Testing:** Test Driven Development (TDD), Jest, Junit, Pytest  
-- **Source Control:** Git, GitHub  
-- **Other:** Pair programming, technical communication, agile/SCRUM  
+- **Languages:** JavaScript, Python, Java, Bash, C#
+- **Frontend:** HTML, CSS, React, WinForms, Swing, Tkinter
+- **Backend:** SQLite, PostgreSQL, MySQL 
+- **Testing:** Test Driven Development (TDD), Jest, Junit, Pytest
+- **Source Control:** Git, GitHub
+- **Other:** Pair programming, technical communication, agile/SCRUM
 
 ---
 
@@ -29,8 +29,10 @@ Proficient programmer with experience in open-source development and a graduate 
 ---
 
 ## EDUCATION
-**Junior Software Developer | Northcoders Bootcamp | July 2024 – October 2024**
-- WHAT TO PUT HERE?
+**Northcoders | Software Development Bootcamp | July 2024 – October 2024**
+- Built Express APIs, PostgreSQL databases, and React front-ends
+- Learned JavaScript, Node.js, HTML, and CSS fundamentals
+- Practiced asynchronous programming, test-driven development, pair programming, and object-oriented programming
 
 **Brooke Weston Academy | A-Levels (Various) | September 2018 – July 2020**
 - Biology (A*)  
@@ -38,7 +40,10 @@ Proficient programmer with experience in open-source development and a graduate 
 - English Literature (B)
 
 **Functional Skills UK | Cyber Security Level 2 Certificate | March 2024 – July 2024**
-- Level 2 Certificate in Cyber Security
+- Studied common and emerging cyber threats
+- Explored preventitive measures and effective responses for cyber attacks
+- Learned about vulnerability and penetration testing
+- Researched legal and ethical aspects of cyber security
 
 **Brooke Weston Academy | GCSEs (Various) | September 2018 – July 2020**
 - English Language/Biology/English Literature/French (9/8/A*)  
@@ -47,15 +52,12 @@ Proficient programmer with experience in open-source development and a graduate 
 ---
 
 ## EXPERIENCE
-**Open-source Developer | Anti-Malware Alliance | May 2024 - Present**
-Joined the Anti-Malware Alliance (AMA) to contribute to open-source projects, enhance my programming skills, and learn collaborative development. Authored and continue to develop ‘DocuBleach,’ a CLI cybersecurity tool that sanitizes office files by removing harmful macros and dynamic content.
+**Open-source Developer | Anti-Malware Alliance | May 2024 - Present**\
+- Joined the Anti-Malware Alliance (AMA) to contribute to an open-source project
+- Authored and continue to develop the ‘DocuBleach’ CLI cybersecurity tool
+- Enhanced programming skills and learnt collaborative development
 
-**Computer Hardware Specialist | Moses Technology | September 2018 - January 2019**
-Established and operated an online store selling salvaged computer components. Managed purchasing, refurbishment, and resale, ensuring customer satisfaction through effective communication and issue resolution. Ceased operations in 2020 to focus on studies.
-
-Responsibilities:
-- Purchasing discarded computers and parts  
-- Examining stock and salvaging functional components  
-- Refurbishing and testing reclaimed items  
-- Listing and selling renewed computer components  
-- Answering customer inquiries and resolving issues
+**Owner/Computer Hardware Specialist | Moses Technology | September 2018 - January 2019**\
+- Established and operated an online store selling salvaged computer components
+- Purchased, refurbished, and sold reclaimed hardware
+- Ensured customer satisfaction through quality service and effective communication
