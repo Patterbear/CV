@@ -1,11 +1,13 @@
 # BENJAMIN MCGREGOR  
 **Junior Software Developer**  
-[benjamin.mcgregor2002@gmail.com](mailto:benjamin.mcgregor2002@gmail.com) | 07513399969 | [GitHub](https://github.com/Patterbear) | [LinkedIn](linkedin.com/in/benjamin-mcgregor-782553224/)
+[benjamin.mcgregor2002@gmail.com](mailto:benjamin.mcgregor2002@gmail.com) | 07513 399 969 | [GitHub](https://github.com/Patterbear) | [LinkedIn](linkedin.com/in/benjamin-mcgregor-782553224/)
 
 ---
 
 ## PERSONAL STATEMENT
 Proficient programmer with experience in open-source development and graduate from Northcoders’ Software Development bootcamp, seeking a Junior Software Developer role.
+
+I WILL WRITE MORE HERE
 
 ---
 
@@ -26,22 +28,27 @@ Proficient programmer with experience in open-source development and graduate fr
 **DocuBleach**  
 *Command-line cybersecurity tool written in Python designed to detect and purge macros/dynamic content from commonly used modern and legacy office formats.*
 
+**ShotPut**
+*Cross-platform screenshot utility written in Java for students to seamlessley take, save, and organise screenshots of lectures/presentations by pressing a chosen key.*
+
 ---
 
 ## EDUCATION
 **Northcoders | Software Development Bootcamp | July 2024 – October 2024**
 - Built Express APIs, PostgreSQL databases, and React front-ends
 - Learned JavaScript, Node.js, HTML, and CSS fundamentals
-- Practiced asynchronous programming, test-driven development, pair programming, and object-oriented programming
+- Practiced test-driven development, pair programming, and object-oriented programming
 
 **Brooke Weston Academy | A-Levels (Various) | September 2018 – July 2020**
 - Biology (A*)  
 - Computer Science (A)  
 - English Literature (B)
 
+<div style="page-break-after: always;"></div>
+
 **Functional Skills UK | Cyber Security Level 2 Certificate | March 2024 – July 2024**
 - Studied common and emerging cyber threats
-- Explored preventitive measures and effective responses for cyber attacks
+- Explored preventative measures and effective responses for cyber attacks
 - Learned about vulnerability and penetration testing
 - Researched legal and ethical aspects of cyber security
 
