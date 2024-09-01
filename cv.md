@@ -44,8 +44,6 @@ I WILL WRITE MORE HERE
 - Computer Science (A)  
 - English Literature (B)
 
-<div style="page-break-after: always;"></div>
-
 **Functional Skills UK | Cyber Security Level 2 Certificate | March 2024 – July 2024**
 - Studied common and emerging cyber threats
 - Explored preventative measures and effective responses for cyber attacks
@@ -59,12 +57,12 @@ I WILL WRITE MORE HERE
 ---
 
 ## EXPERIENCE
-**Open-source Developer | Anti-Malware Alliance | May 2024 - Present**\
+**Open-source Developer | Anti-Malware Alliance | May 2024 - Present**
 - Joined the Anti-Malware Alliance (AMA) to contribute to an open-source project
 - Authored and continue to develop the ‘DocuBleach’ CLI cybersecurity tool
 - Enhanced programming skills and learnt collaborative development
 
-**Owner/Computer Hardware Specialist | Moses Technology | September 2018 - January 2019**\
+**Owner/Computer Hardware Specialist | Moses Technology | September 2018 - January 2019**
 - Established and operated an online store selling salvaged computer components
 - Purchased, refurbished, and sold reclaimed hardware
 - Ensured customer satisfaction through quality service and effective communication
