@@ -5,7 +5,7 @@
 ---
 
 ## PERSONAL STATEMENT
-Proficient programmer with experience in open-source development and graduate from Northcoders’ Software Development bootcamp, seeking a Junior Software Developer role.
+Proficient programmer with experience in open-source development, First-Class Honours Computer Science degree-holder from the University of Leicester, and graduate from Northcoders’ Software Development bootcamp, seeking a Junior Software Developer role.
 
 I WILL WRITE MORE HERE 
 
@@ -37,7 +37,7 @@ I WILL WRITE MORE HERE
 **University of Leicester | BSc Computer Science (First-Class Honours) | September 2020 – July 2025**
 - Developed Spring APIs, websites, Android applications, and MySQL databases
 - Learnt Java, Spring, Python, Bash, HTML, CSS, and C++ fundamentals
-- Studied Operating Systems, Networks, Artificial Intelligence, Innovation Management, Computing Ethics, Software Engineering, Requirements Engineering, and Cloud Computing
+- Studied Cyber Security, Operating Systems, Networks, Artificial Intelligence, Innovation Management, Computing Ethics, Software Engineering, Requirements Engineering, and Cloud Computing
 
 **Northcoders | Software Development Bootcamp | July 2024 – October 2024**
 - Built Express APIs, PostgreSQL databases, and React front-ends
