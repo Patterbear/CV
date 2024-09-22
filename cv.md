@@ -1,6 +1,6 @@
 # BENJAMIN MCGREGOR  
 **Junior Software Developer**  
-[benjamin.mcgregor2002@gmail.com](mailto:benjamin.mcgregor2002@gmail.com) | 07513 399 969 | [GitHub](https://github.com/Patterbear) | [LinkedIn](linkedin.com/in/benjamin-mcgregor-782553224/)
+[benjamin.mcgregor2002@gmail.com](mailto:benjamin.mcgregor2002@gmail.com) | 07513 399 969 | [GitHub](https://github.com/Patterbear) | [LinkedIn](https://linkedin.com/in/benjamin-mcgregor-782553224/)
 
 ---
 
@@ -75,10 +75,14 @@ I have experience with Java, JavaScript, Python, and C#, and have created Web Ap
 
 ## HOBBIES & INTERESTS
 
-**Football** - I am a life-long Bradford City and England fan who loves watching and going to games both home and away, and loved playing football before my spinal injury.
+**Football**  
+I am a life-long Bradford City and England fan who loves watching and going to games both home and away, and loved playing football before my spinal injury.
 
-**Cinema** - I am a huge fan of cinema, across all eras and genres, with my favourite films of all time being Ridley Scott's 'Blade Runner', Hitchcock's 'North by Northwest', and Powell and Pressburger's 'A Matter of Life and Death'.
+**Cinema**  
+I am a huge fan of cinema, across all eras and genres, with my favourite films of all time being Ridley Scott's 'Blade Runner', Hitchcock's 'North by Northwest', and Powell and Pressburger's 'A Matter of Life and Death'.
 
-**Reading** - I am an avid reader of Science-fiction, particularly enjoying the works of Isaac Asimov and Phillip K. Dick, with my favourite book being 'The Caves of Steel' from Asimov's 'Robot' series.
+**Reading**  
+I am an avid reader of Science-fiction, particularly enjoying the works of Isaac Asimov and Phillip K. Dick, with my favourite book being 'The Caves of Steel' from Asimov's 'Robot' series.
 
-**Gaming** - I have played and do play a wide variety of both modern and retro games across various genres and consoles, with my favourites being Interplay's Fallout and Ubisoft's Valiant Hearts.
+**Gaming**  
+I have played and do play a wide variety of both modern and retro games across various genres and consoles, with my favourites being Interplay's Fallout and Ubisoft's Valiant Hearts.
