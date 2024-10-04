@@ -9,13 +9,13 @@ I am a proficient programmer with experience in open-source development, and a g
 
 A life-long interest in computers lead me to pursue Software Development, and to discover that I thoroughly enjoy building projects, writing code, and collaborating with others.
 
-I have experience with Java, JavaScript, Python, and C#, and have created Web Applications, APIs, Desktop Applications, and databases as part of personal projects, open-source work, and formal education. 
+I have experience with Java, JavaScript, TypeScript, Python, and C#, and have created Web Applications, APIs, Desktop Applications, and databases as part of personal projects, open-source work, and formal education. 
 
 ---
 
 ## SKILLS
-- **Languages:** JavaScript, Python, Java, Bash, C#, HTML
-- **Frontend:** CSS, React, WinForms, Swing, Tkinter
+- **Languages:** JavaScript, TypeScript, Python, Java, Bash, C#, HTML
+- **Frontend:** CSS, React, React Native, Expo, WinForms, Swing, Tkinter
 - **Backend:** Express, Spring, SQLite, PostgreSQL, MySQL 
 - **Testing:** Test Driven Development (TDD), Jest, Junit, Pytest
 - **Source Control:** Git, GitHub
@@ -24,6 +24,9 @@ I have experience with Java, JavaScript, Python, and C#, and have created Web Ap
 ---
 
 ## PROJECTS
+[**MuralMap**](https://github.com/Team-MuralMap/MuralMap)/[**MuralMap API**](https://github.com/Team-MuralMap/MuralMap-api)  
+*Street art mapping and photo sharing Expo/React Native application written in TypeScript with a JavaScript API and PostgreSQL backend.*
+
 [**TedEncrypt**](https://github.com/Patterbear/TedEncrypt)  
 *GUI-based file encryption tool written in C# using the .NET framework that employs an unconditionally secure stream cipher to encrypt files bytewise with a generated key.*
 
