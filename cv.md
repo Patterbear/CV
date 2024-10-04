@@ -33,9 +33,6 @@ I have experience with Java, JavaScript, TypeScript, Python, and C#, and have cr
 [**DocuBleach**](https://github.com/Anti-Malware-Alliance/docubleach)  
 *Command-line cybersecurity tool written in Python designed to detect and purge macros/dynamic content from commonly-used modern and legacy office formats.*
 
-[**ShotPut**](https://github.com/Patterbear/ShotPut)  
-*Cross-platform screenshot utility written in Java for students to seamlessley take, save, and organise screenshots of lectures/presentations by pressing a chosen key.*
-
 ---
 
 ## EDUCATION
@@ -44,7 +41,7 @@ I have experience with Java, JavaScript, TypeScript, Python, and C#, and have cr
 - Built Express APIs, PostgreSQL databases, and React front-ends
 - Learnt JavaScript, Node.js, HTML, and CSS fundamentals
 - Developed Jest test suites to practice test-driven development and quality-assurance
-- Regularly engaged in pair programming with numerous partners using Zoom
+- Regularly engaged in pair programming with numerous partners using Zoom/Slack
 
 **Brooke Weston Academy | A-Levels (Various) | September 2018 – July 2020**
 - Biology (A*)  
