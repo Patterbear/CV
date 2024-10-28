@@ -1,6 +1,6 @@
 # BENJAMIN MCGREGOR  
 **Junior Software Developer**  
-[benjamin.mcgregor2002@gmail.com](mailto:benjamin.mcgregor2002@gmail.com) | 07513 399 969 | [GitHub](https://github.com/Patterbear) | [LinkedIn](https://linkedin.com/in/benjamin-mcgregor-782553224/)
+[benjamin.mcgregor2002@gmail.com](mailto:benjamin.mcgregor2002@gmail.com) | 07513 399 969 | [Website](https://patterbear.github.io/my-portfolio) | [GitHub](https://github.com/Patterbear) | [LinkedIn](https://linkedin.com/in/benjamin-mcgregor-782553224/)
 
 ---
 
@@ -53,6 +53,11 @@ I have experience with Java, JavaScript, TypeScript, Python, and C#, and have cr
 - Explored preventative measures and effective responses for cyber attacks
 - Learned about vulnerability and penetration testing
 - Researched legal and ethical aspects of cyber security
+
+**Bedford College | Coding Level 2 Certificate | October 2024 - January 2025**
+- Studied coding design principles and the SDLC
+- Explored various programming languages
+- Developed communication and project management skills
 
 **Brooke Weston Academy | GCSEs (Various) | September 2018 – July 2020**
 - English Language/Biology/English Literature/French (9/8/A*)  
